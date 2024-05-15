@@ -1,4 +1,4 @@
 - name: Nuclei - Vulnerability Scan
-   uses: projectdiscovery/nuclei-action@main
-   with:
-     target: https://indriver.com
+  uses: projectdiscovery/nuclei-action@main
+  with:
+   target: https://indriver.com
