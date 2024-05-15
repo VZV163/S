@@ -1,0 +1,9 @@
+              
+
+- name: Nuclei - Vulnerability Scan
+
+              
+
+  uses: projectdiscovery/nuclei-action@v2.0.1
+
+            
